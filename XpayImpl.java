@@ -1,5 +1,3 @@
-package com.teamrocket;
-
 import com.teamrocket.Xpay;
 
 public class XpayImpl implements Xpay {
